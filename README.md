@@ -1,4 +1,5 @@
 ## NiFi MCP (Model Context Protocol)
+Link to orignal porject -https://github.com/ms82119/NiFiMCP
 
 This repository contains the NiFi MCP project. It can be used in two ways, either:
 
